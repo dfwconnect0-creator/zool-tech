@@ -2,6 +2,7 @@ backend:
   name: github
   repo: dfwconnect0-creator/zool-tech
   branch: main
+  base_url: https://sveltia-cms-auth.dfwconnect0.workers.dev
 
 local_backend: true
 

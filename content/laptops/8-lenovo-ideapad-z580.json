@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "brand": "lenovo",
+  "model": "Lenovo IdeaPad Z580",
+  "processor": "Intel Core i5-3210M 2.5GHz",
+  "ram": "8GB",
+  "storage": "HDD 750GB",
+  "price": 240,
+  "type": "Laptop",
+  "image": "images/laptop-8-0.webp",
+  "gallery": [
+    "images/laptop-8-0.webp",
+    "images/laptop-8-1.webp",
+    "images/laptop-8-2.webp"
+  ]
+}

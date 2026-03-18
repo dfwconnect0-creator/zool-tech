@@ -1,0 +1,33 @@
+backend:
+  name: github
+  repo: dfwconnect0-creator/zool-tech
+  branch: main
+  base_url: https://api.github.com
+
+local_backend: true
+
+media_folder: "images"
+public_folder: "images"
+
+collections:
+  - name: "laptops"
+    label: "Laptops 💻"
+    label_singular: "Laptop"
+    folder: "content/laptops"
+    create: true
+    slug: "{{id}}-{{model}}"
+    extension: "json"
+    format: "json"
+    fields:
+      - { label: "ID", name: "id", widget: "number" }
+      - { label: "Brand", name: "brand", widget: "select", options: ["hp", "dell", "lenovo", "toshiba", "asus"] }
+      - { label: "Model", name: "model", widget: "string" }
+      - { label: "Processor", name: "processor", widget: "string" }
+      - { label: "RAM", name: "ram", widget: "string" }
+      - { label: "Storage", name: "storage", widget: "string" }
+      - { label: "Price", name: "price", widget: "number", value_type: "int" }
+      - { label: "Type", name: "type", widget: "string" }
+      - { label: "Badge", name: "badge", widget: "string", required: false }
+      - { label: "Hot", name: "hot", widget: "boolean", default: false }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Gallery", name: "gallery", widget: "list", field: { label: "Image", name: "gallery_img", widget: "image" } }

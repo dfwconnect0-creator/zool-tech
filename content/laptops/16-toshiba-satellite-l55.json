@@ -1,0 +1,17 @@
+{
+  "id": 16,
+  "brand": "toshiba",
+  "model": "Toshiba Satellite L55",
+  "processor": "Intel Core i5-4210U 1.70GHz",
+  "ram": "8GB",
+  "storage": "HDD 512GB",
+  "price": 230,
+  "type": "Laptop",
+  "image": "images/laptop-16-0.webp",
+  "gallery": [
+    "images/laptop-16-0.webp",
+    "images/laptop-16-1.webp",
+    "images/laptop-16-2.webp",
+    "images/laptop-16-3.webp"
+  ]
+}

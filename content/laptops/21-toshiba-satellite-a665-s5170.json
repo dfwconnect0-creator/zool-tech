@@ -1,0 +1,12 @@
+{
+  "id": 21,
+  "brand": "toshiba",
+  "model": "Toshiba Satellite A665-S5170",
+  "processor": "Intel Core i3-M380 2.53GHz",
+  "ram": "6GB",
+  "storage": "HDD 500GB",
+  "price": 200,
+  "type": "Laptop",
+  "image": "",
+  "gallery": []
+}

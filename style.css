@@ -642,10 +642,72 @@ img {
     background: var(--bg);
     border: 1px solid var(--border);
     border-radius: var(--radius-lg);
-    padding: 22px;
+    padding: 0;
+    overflow: hidden;
     transition: all var(--transition);
     position: relative;
     animation: fadeInUp 0.4s ease both;
+}
+
+.laptop-image-container {
+    width: 100%;
+    aspect-ratio: 16/10;
+    background: var(--bg-muted);
+    overflow: hidden;
+    position: relative;
+    border-bottom: 1px solid var(--border);
+}
+
+.laptop-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.laptop-card:hover .laptop-img {
+    transform: scale(1.08);
+}
+
+.laptop-card-content {
+    padding: 20px;
+}
+
+.laptop-no-image {
+    background: linear-gradient(135deg, var(--bg-muted) 0%, var(--bg-subtle) 100%);
+}
+
+.no-image-placeholder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    gap: 8px;
+}
+
+.gallery-count {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    background: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 4px;
+    backdrop-filter: blur(4px);
+}
+
+.laptop-card.reveal {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+}
+
+.laptop-card.reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
 }
 
 .laptop-card:hover {
@@ -1173,34 +1235,36 @@ img {
     position: fixed;
     bottom: 22px;
     left: 22px;
-    z-index: 999;
+    z-index: 1000;
     background: var(--text);
     color: var(--bg);
-    font-size: 18px;
-    width: 50px;
-    height: 50px;
+    font-size: 20px;
+    width: 56px;
+    height: 56px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    box-shadow: var(--shadow-lg);
-    transition: all var(--transition);
+    box-shadow: var(--shadow-xl);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     overflow: hidden;
+}
+
+.floating-cta:hover {
+    width: 150px;
+    border-radius: 30px;
+    background: #25D366;
+    color: white;
+    transform: translateY(-5px);
 }
 
 .floating-label {
     display: none;
-    font-size: 13px;
-    font-weight: 700;
+    font-size: 14px;
+    font-weight: 800;
     white-space: nowrap;
     margin-right: 8px;
-    color: var(--bg);
-}
-
-.floating-cta:hover {
-    width: 130px;
-    border-radius: 25px;
-    box-shadow: var(--shadow-xl);
+    color: white;
 }
 
 .floating-cta:hover .floating-label {

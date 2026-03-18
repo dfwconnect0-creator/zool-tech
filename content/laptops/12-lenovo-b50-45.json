@@ -1,0 +1,16 @@
+{
+  "id": 12,
+  "brand": "lenovo",
+  "model": "Lenovo B50-45",
+  "processor": "AMD E1-6010",
+  "ram": "8GB",
+  "storage": "SSD 120GB",
+  "price": 200,
+  "type": "Budget",
+  "image": "images/laptop-12-0.webp",
+  "gallery": [
+    "images/laptop-12-0.webp",
+    "images/laptop-12-1.webp",
+    "images/laptop-12-2.webp"
+  ]
+}

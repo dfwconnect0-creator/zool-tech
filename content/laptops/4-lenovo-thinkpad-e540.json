@@ -1,0 +1,16 @@
+{
+  "id": 4,
+  "brand": "lenovo",
+  "model": "Lenovo ThinkPad E540",
+  "processor": "Intel Core i3-4000M 2.40GHz",
+  "ram": "6GB",
+  "storage": "HDD 500GB",
+  "price": 190,
+  "type": "Laptop",
+  "image": "images/laptop-4-0.webp",
+  "gallery": [
+    "images/laptop-4-0.webp",
+    "images/laptop-4-1.webp",
+    "images/laptop-4-2.webp"
+  ]
+}

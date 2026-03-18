@@ -1,0 +1,16 @@
+{
+  "id": 9,
+  "brand": "hp",
+  "model": "HP 255 G1",
+  "processor": "AMD A4-5000 1.5GHz",
+  "ram": "6GB",
+  "storage": "SSD 120GB",
+  "price": 180,
+  "type": "Budget",
+  "image": "images/laptop-9-0.webp",
+  "gallery": [
+    "images/laptop-9-0.webp",
+    "images/laptop-9-1.webp",
+    "images/laptop-9-2.webp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 3,
+  "brand": "dell",
+  "model": "Dell Latitude E6530",
+  "processor": "Intel Core i5 2.5GHz",
+  "ram": "8GB",
+  "storage": "SSD 250GB",
+  "price": 250,
+  "type": "Business",
+  "badge": "GREAT DEAL",
+  "image": "images/laptop-3-0.webp",
+  "gallery": [
+    "images/laptop-3-0.webp",
+    "images/laptop-3-1.webp",
+    "images/laptop-3-2.webp"
+  ]
+}

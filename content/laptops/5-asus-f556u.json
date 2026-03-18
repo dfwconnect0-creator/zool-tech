@@ -1,0 +1,17 @@
+{
+  "id": 5,
+  "brand": "asus",
+  "model": "ASUS F556U",
+  "processor": "Intel Core i7-6500U 2.5GHz",
+  "ram": "8GB",
+  "storage": "HDD 1TB",
+  "price": 280,
+  "type": "Laptop",
+  "badge": "BEST VALUE",
+  "image": "images/laptop-5-0.webp",
+  "gallery": [
+    "images/laptop-5-0.webp",
+    "images/laptop-5-1.webp",
+    "images/laptop-5-2.webp"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7,
+  "brand": "lenovo",
+  "model": "Lenovo IdeaPad 100-15IBY",
+  "processor": "Intel Celeron 2.16GHz",
+  "ram": "8GB",
+  "storage": "HDD 250GB",
+  "price": 190,
+  "type": "Budget",
+  "badge": "BUDGET PICK",
+  "image": "images/laptop-7-0.webp",
+  "gallery": [
+    "images/laptop-7-0.webp",
+    "images/laptop-7-1.webp",
+    "images/laptop-7-2.webp",
+    "images/laptop-7-3.webp"
+  ]
+}

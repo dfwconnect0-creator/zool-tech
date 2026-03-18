@@ -1,0 +1,18 @@
+{
+  "id": 17,
+  "brand": "dell",
+  "model": "Dell Inspiron P251T",
+  "processor": "AMD A6-9220e 1.60GHz",
+  "ram": "4GB",
+  "storage": "SSD 32GB",
+  "price": 140,
+  "type": "11-inch Touch",
+  "badge": "TOUCH SCREEN",
+  "image": "images/laptop-17-0.webp",
+  "gallery": [
+    "images/laptop-17-0.webp",
+    "images/laptop-17-1.webp",
+    "images/laptop-17-2.webp",
+    "images/laptop-17-3.webp"
+  ]
+}

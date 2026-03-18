@@ -1,0 +1,21 @@
+{
+  "id": 24,
+  "brand": "dell",
+  "model": "Dell Latitude 14 Rugged Extreme 7404",
+  "processor": "Intel Core i7-4650U 1.70GHz",
+  "ram": "8GB",
+  "storage": "SSD 512GB",
+  "price": 650,
+  "type": "Rugged",
+  "hot": true,
+  "badge": "RUGGED",
+  "image": "images/laptop-24-0.webp",
+  "gallery": [
+    "images/laptop-24-0.webp",
+    "images/laptop-24-1.webp",
+    "images/laptop-24-2.webp",
+    "images/laptop-24-3.webp",
+    "images/laptop-24-4.webp",
+    "images/laptop-24-5.webp"
+  ]
+}

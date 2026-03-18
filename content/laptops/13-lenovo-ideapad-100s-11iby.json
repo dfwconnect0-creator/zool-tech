@@ -1,0 +1,17 @@
+{
+  "id": 13,
+  "brand": "lenovo",
+  "model": "Lenovo IdeaPad 100S-11IBY",
+  "processor": "Intel Atom 1.33GHz",
+  "ram": "2GB",
+  "storage": "eMMC 32GB",
+  "price": 130,
+  "type": "Ultra-Budget",
+  "badge": "LOWEST PRICE",
+  "image": "images/laptop-13-0.webp",
+  "gallery": [
+    "images/laptop-13-0.webp",
+    "images/laptop-13-1.webp",
+    "images/laptop-13-2.webp"
+  ]
+}

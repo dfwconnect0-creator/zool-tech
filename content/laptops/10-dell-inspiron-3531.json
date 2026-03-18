@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "brand": "dell",
+  "model": "Dell Inspiron 3531",
+  "processor": "Intel Celeron 2.16GHz",
+  "ram": "4GB",
+  "storage": "SSD 120GB",
+  "price": 180,
+  "type": "Budget",
+  "image": "images/laptop-10-0.webp",
+  "gallery": [
+    "images/laptop-10-0.webp",
+    "images/laptop-10-1.webp",
+    "images/laptop-10-2.webp"
+  ]
+}

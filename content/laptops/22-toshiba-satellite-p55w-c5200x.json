@@ -1,0 +1,12 @@
+{
+  "id": 22,
+  "brand": "toshiba",
+  "model": "Toshiba Satellite P55w-C5200x",
+  "processor": "Intel Core i5-5200U 2.20GHz",
+  "ram": "8GB",
+  "storage": "HDD 1TB",
+  "price": 270,
+  "type": "Laptop",
+  "image": "",
+  "gallery": []
+}

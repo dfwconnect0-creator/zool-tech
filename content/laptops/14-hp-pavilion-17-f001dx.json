@@ -1,0 +1,15 @@
+{
+  "id": 14,
+  "brand": "hp",
+  "model": "HP Pavilion 17-f001dx",
+  "processor": "AMD A8-6410 2.0GHz (Radeon R5)",
+  "ram": "8GB",
+  "storage": "SSD 128GB",
+  "price": 200,
+  "type": "17-inch",
+  "badge": "17 INCH",
+  "image": "images/laptop-14-0.webp",
+  "gallery": [
+    "images/laptop-14-0.webp"
+  ]
+}

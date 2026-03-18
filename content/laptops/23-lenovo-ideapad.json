@@ -1,0 +1,13 @@
+{
+  "id": 23,
+  "brand": "lenovo",
+  "model": "Lenovo IdeaPad",
+  "processor": "Intel Core i7-7500U 2.70GHz",
+  "ram": "8GB",
+  "storage": "HDD 1TB",
+  "price": 270,
+  "type": "Laptop",
+  "badge": "i7 POWER",
+  "image": "",
+  "gallery": []
+}

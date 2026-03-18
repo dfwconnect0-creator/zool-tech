@@ -1,0 +1,12 @@
+{
+  "id": 20,
+  "brand": "lenovo",
+  "model": "Lenovo ThinkPad T420",
+  "processor": "Intel Core i5-2430M 2.40GHz",
+  "ram": "8GB",
+  "storage": "HDD 1TB",
+  "price": 230,
+  "type": "Business",
+  "image": "",
+  "gallery": []
+}

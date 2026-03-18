@@ -1,0 +1,17 @@
+{
+  "id": 15,
+  "brand": "dell",
+  "model": "Dell Latitude 3330",
+  "processor": "Intel Core i3-2375M 1.50GHz",
+  "ram": "8GB",
+  "storage": "HDD 1TB",
+  "price": 200,
+  "type": "13-inch",
+  "badge": "13 INCH",
+  "image": "images/laptop-15-0.webp",
+  "gallery": [
+    "images/laptop-15-0.webp",
+    "images/laptop-15-1.webp",
+    "images/laptop-15-2.webp"
+  ]
+}

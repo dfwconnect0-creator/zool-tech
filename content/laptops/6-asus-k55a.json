@@ -1,0 +1,16 @@
+{
+  "id": 6,
+  "brand": "asus",
+  "model": "ASUS K55A",
+  "processor": "Intel Core i5-3210M 2.5GHz",
+  "ram": "8GB",
+  "storage": "SSD 250GB",
+  "price": 260,
+  "type": "Laptop",
+  "image": "images/laptop-6-0.webp",
+  "gallery": [
+    "images/laptop-6-0.webp",
+    "images/laptop-6-1.webp",
+    "images/laptop-6-2.webp"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "brand": "hp",
+  "model": "HP ZBook 17 G3",
+  "processor": "Intel Core i7-6700HQ 2.60GHz",
+  "ram": "16GB",
+  "storage": "SSD 250GB + HDD 750GB (1TB Total)",
+  "price": 700,
+  "type": "Workstation",
+  "hot": true,
+  "badge": "WORKSTATION",
+  "image": "",
+  "gallery": []
+}

@@ -3,8 +3,17 @@
     "public": ".",
     "ignore": [
       "firebase.json",
+      ".firebaserc",
       "**/.*",
-      "**/node_modules/**"
+      ".venv/**",
+      ".git/**",
+      "**/node_modules/**",
+      "**/*.py",
+      "**/*.pyc",
+      "**/*.md",
+      "**/*.docx",
+      "**/*.sh",
+      "DEVELOPER.md"
     ]
   }
 }

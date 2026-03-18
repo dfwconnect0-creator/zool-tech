@@ -1,0 +1,17 @@
+{
+  "id": 11,
+  "brand": "hp",
+  "model": "HP 15-f010dx",
+  "processor": "Intel Core i3 1.7GHz",
+  "ram": "8GB",
+  "storage": "HDD 500GB",
+  "price": 220,
+  "type": "Touchscreen",
+  "badge": "TOUCH SCREEN",
+  "image": "images/laptop-11-0.webp",
+  "gallery": [
+    "images/laptop-11-0.webp",
+    "images/laptop-11-1.webp",
+    "images/laptop-11-2.webp"
+  ]
+}
